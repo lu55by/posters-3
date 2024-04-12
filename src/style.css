@@ -1,0 +1,56 @@
+html,
+body,
+#root
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: ivory;
+}
+
+/* body {
+    height: 100vh;
+} */
+
+.img-ref {
+    height: 100%;
+}
+
+.container {
+    width: 33.33333%;
+    height: 100%;
+    /* color: hsl(210, 81%, 51%) */
+}
+
+.container-1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.container-2 {
+    position: absolute;
+    left: 33.3333333%;
+    top: 0;
+}
+
+.container-3 {
+    position: absolute;
+    left: 66.666666%;
+    top: 0;
+}
+
+.perf-2 {
+    position: absolute;
+    top: 0;
+    left: 33.33333%;
+    width: 22%;
+}
+
+.canvas-box {
+    height: 100%;
+}
+
+
