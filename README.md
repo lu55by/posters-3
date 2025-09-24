@@ -9,7 +9,7 @@ Run this followed commands:
 npm install
 
 # Run the local server at localhost:5173
-npm vite
+npx vite
 
 # Build for production in the dist/ directory
 npm run build
